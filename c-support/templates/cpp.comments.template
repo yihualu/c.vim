@@ -39,12 +39,12 @@
 == Comments.file description impl == map:cfdi, shortcut:c, start, noindent ==
 // |FILENAME|
 // |COPYRIGHT|
-// |AUTHOR| |EMAIL|
+// |AUTHOR|, |EMAIL|
 <CURSOR>
 == Comments.file description header == map:cfdh, shortcut:h, start, noindent ==
 // |FILENAME|
 // |COPYRIGHT|
-// |AUTHOR| |EMAIL|
+// |AUTHOR|, |EMAIL|
 <CURSOR>
 == ENDTEMPLATE ==
 
