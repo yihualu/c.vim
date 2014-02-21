@@ -2,11 +2,11 @@
 §  User Macros
 § ==========================================================
 
-SetMacro( 'AUTHOR',      'Tiger Lee' )
-SetMacro( 'AUTHORREF',   'tiger' )
+SetMacro( 'AUTHOR',      'Edward Lu' 
+SetMacro( 'AUTHORREF',   '' )
 SetMacro( 'COMPANY',     '' )
 SetMacro( 'COPYRIGHT',   'Copyright (c) |YEAR|, |AUTHOR|' )
-SetMacro( 'EMAIL',       'c.vim@tigerlee.me' )
+SetMacro( 'EMAIL',       '' )
 SetMacro( 'LICENSE',     'GNU General Public License' )
 SetMacro( 'ORGANIZATION','' )
 
