@@ -3,7 +3,7 @@
 § ==========================================================
 
 SetMacro( 'AUTHOR',      'Edward Lu' )
-SetMacro( 'AUTHORREF',   '' )
+SetMacro( 'AUTHORREF',   'edward' )
 SetMacro( 'COMPANY',     '' )
 SetMacro( 'COPYRIGHT',   'Copyright (c) |YEAR|, |AUTHOR|' )
 SetMacro( 'EMAIL',       '' )
